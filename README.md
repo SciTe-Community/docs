@@ -1,1 +1,1 @@
-# SciTe-Community.github.io
+# SciTe: website
